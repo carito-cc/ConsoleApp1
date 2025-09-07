@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\2 año\\poo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\2 año\\poo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\2 año\\poo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\2 año\\poo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\carolina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\carolina\\OneDrive\\Desktop\\ifosup\\2 año\\poo\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carolina\\AppData\\Roaming\\NuGet\\NuGet.Config"
