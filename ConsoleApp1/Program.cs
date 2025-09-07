@@ -8,7 +8,8 @@ Console.WriteLine(sum);
 
 
 Console.Write("Entrez votre nom: ");
-var Nom = Console.ReadLine(Nom);
-
+string Nom = Console.ReadLine();
+Console.WriteLine("Bonjour " + Nom);
 
 Console.Write("Entre votre age: ");
+Console.WriteLine("Bonjour " + Nom + " vous avez " + Age + " ans");
