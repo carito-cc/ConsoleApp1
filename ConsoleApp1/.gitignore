@@ -26,8 +26,3 @@ Release/
 # Archivos de sistema
 Thumbs.db
 *.DS_Store
-
-git rm -r --cached ConsoleApp1/bin ConsoleApp1/obj
-git add .gitignore
-git commit -m "Agregar .gitignore y limpiar bin/obj"
-git push origin main
